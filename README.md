@@ -15,3 +15,4 @@ Run the following command:
 
 ```bash
 mvn clean package
+## Project Information
